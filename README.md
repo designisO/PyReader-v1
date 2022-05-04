@@ -7,6 +7,7 @@ In this project I was able to create a site that allows users to upload .wav for
 
 
 pip install flask
+
 pip install SpeechRecognition
 
 
